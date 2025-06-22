@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Moriya 👋  
+Full Stack Developer | Passionate about creating and improving
 
-<!--
-**Moriya-Geva/Moriya-Geva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focused on writing clean and efficient code  
+🛠️ Skilled in React, Node.js, C#, Angular, SQL, MongoDB  
+🚀 Always learning, always building
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Frontend:** React, Angular, HTML, CSS  
+**Backend:** Node.js, C#, Express  
+**Databases:** MongoDB, SQL  
+**Tools:** Git, GitHub, Postman, VSCode  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: moriyageva1@gmail.com  
+🌐 GitHub: [github.com/Moriya-Geva](https://github.com/Moriya-Geva)
+
