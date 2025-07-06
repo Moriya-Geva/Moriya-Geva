@@ -69,7 +69,7 @@ Key technologies: **Go**, **Kafka**, **BigQuery**, **Kubernetes**
 
 ##  Technical Skills
 
-- **Languages:** C, C#, Java, Python, Node.js, C++
+- **Languages:** C, C#, Java, Python, Node.js, C++ , Go
 - **Web:** React, Angular, TypeScript, JavaScript, Bootstrap, CSS3, HTML5
 - **Frameworks & Tools:** .NET Core, WinForms, Entity Framework, Swagger, JWT, Kafka, BigQuery
 - **Environments:** Visual Studio, VS Code, Eclipse, PyCharm
